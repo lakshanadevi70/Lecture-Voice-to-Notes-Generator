@@ -20,13 +20,12 @@ This project is designed to improve learning efficiency and accessibility for st
 
 ## 📂 Project Structure
 Lecture-Voice-to-Notes-Generator/
-│
-├── app.py              # Main Streamlit application
-├── requirements.txt    # Python dependencies
-├── .env                # Environment variables (not pushed to GitHub)
-├── lecture_video.mp4   # Sample lecture file
-├── test_key.py         # API key testing script
-└── README.md
+- ├── app.py              # Main Streamlit application
+- ├── requirements.txt    # Python dependencies
+- ├── .env                # Environment variables (not pushed to GitHub)
+- ├── lecture_video.mp4   # Sample lecture file
+- ├── test_key.py         # API key testing script
+- └── README.md
 
 ## 🔐 API Key Setup (Important)
 This project uses external AI APIs. API keys are NOT included in this repository for
